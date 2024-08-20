@@ -1,9 +1,6 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDF1cjY4ZXRyNTMwbGVkenplaHB1N2tiZGtrdjh3cTUxeXlxMHdqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
+</div>
+
 ## hei-bog's ✨ _special_ ✨ repository👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about tanks and pcs
-- 😄 Pronouns: attack helicopter
-- ⚡ Fun fact: most walrus don't care about the treaty of versailles
-- 🥒 Age: 67
-- 🅱️ Polish cow
